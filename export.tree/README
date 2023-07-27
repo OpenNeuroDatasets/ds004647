@@ -1,0 +1,11 @@
+This dataset contains the bids-formatted fMRI data used in the study titled "The neurocognitive role of working memory load when Pavlovian motivational control affects instrumental learning". If you utilize this data, please cite the aforementioned paper.
+
+The dataset includes the following:
+
+1. T1-weighted images for each subject.
+2. Functional whole-brain MRI data for each subject.
+3. Event files containing onsets, durations, trial types, reaction times, and model regressors for all trials.
+
+In this study, a total of forty-four adults participated. All participants were healthy, right-handed individuals with normal or corrected-to-normal visual acuity. Prior to the experiment, individuals with a history of neurological or psychiatric illness were excluded through a screening process.
+
+For a comprehensive description of the paradigm and the conducted analysis, please refer to the paper.
